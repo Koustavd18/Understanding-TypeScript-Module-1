@@ -1,1 +1,2 @@
-console.log('Hello Im TypeScript! Theek hai');
+var subject = 'Return';
+console.log(subject);
