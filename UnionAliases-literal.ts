@@ -43,3 +43,9 @@ function checkAge(user:User, age){
 greet(Manush);
 
 console.log(checkAge(Manush,40));
+
+enum Role{ read, write, dance=300}
+
+type myobj = {name:string; age:number; lastName: string};
+
+const MyUser: myobj = { name:'type', age:30, lastName:'disco'}
