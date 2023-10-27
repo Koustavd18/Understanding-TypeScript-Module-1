@@ -8,7 +8,7 @@ function Add (n1: number, n2: number, showResult: boolean, phrase: string){
         return result;
     }
     
-}
+};
 
 const num1 = 2;
 const num2 = 10;
